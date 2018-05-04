@@ -22,7 +22,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 
 Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals made can be sent to your personal bitcoin/dogecoin address or your [FaucetHub](http://faucethub.io/r/42665771) account. 
 
-[FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies and allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771).
+[FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771).
 
 <br> 
 
@@ -34,19 +34,19 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 
 Operating since 2014, [FreeBitco.in](https://freebitco.in/?r=13252621) has proven itself to be very reliable and on time with their payments. There are 4 ways in which you can earn bitcoin here.
 
-- Free BTC Rolls
+##### Free BTC Rolls
 
 Every hour you get a free roll for a chance to win up to US$200 (BTC amount will vary depending on its market price). 
 
-- Multiply Bitcoin
+##### Multiply Bitcoin
 
 A provablty fair Hi-Lo game in which you can multiply your earnings. I would recommend playing this just for fun as it is quite risky. Just know when to quit and don't wager too much.
 
-- Interest
+##### Interest
 
 [FreeBitco.in](https://freebitco.in/?r=13252621) is unique in that it also acts as a Bitcoin Bank where you receive compounding *daily* interest by just leaving your coins in your account. Minimum amount of bitcoin needed to start accruing is 30,000 satoshi (0.0003 BTC). Annual interest rate is around 4%.
 
-- Lottery and Reward Points
+##### Lottery and Reward Points
 
 For every Free BTC roll you make you receive 2 lottery tickets and 2 reward points. The tickets enters you into a lottery draw where up to 10 people win each week. 
 
