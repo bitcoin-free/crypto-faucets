@@ -32,7 +32,7 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 
 <br>
 
-Operating since 2014, [FreeBitco.in](https://freebitco.in/?r=13252621) has proven itself to be very reliable and on time with their payments. There are 4 ways in which you can earn bitcoin here.
+Operating since 2014, [FreeBitco.in](https://freebitco.in/?r=13252621) has proven itself to be very reliable and on time with their payments. Withdrawals are set to 30,000 satoshi (0.003 BTC) and are sent to your personal bitcoin address. There are 4 ways in which you can earn bitcoin here.
 
 ##### Free BTC Rolls
 
@@ -52,5 +52,12 @@ For every Free BTC roll you make you receive 2 lottery tickets and 2 reward poin
 
 The rewards points can be redeemed for prizes ranging from mobile phones to hardware wallets and gift cards. The reward points can also be used to boost your free BTC rolls up to 1000%.
 
+<br> 
 
+<p align="center">
+  <a href="http://freedoge.co.in/?r=2384925"><img src="https://i.imgur.com/3yD4Ppw.png"></a>
+</p>
 
+<br>
+
+[Freedoge.co.in](http://freedoge.co.in/?r=2384925) is a sister site of [FreeBitco.in](https://freebitco.in/?r=13252621). Like [FreeBitco.in](https://freebitco.in/?r=13252621), it has a Free Doge roll every hour and the multiply game, but doesn't have the lottery or compounded interest features. That said, the withdrawal threshold is much lower here which allows for more frequent withdrawals.
