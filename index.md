@@ -1,12 +1,16 @@
-### What are crypto faucets?
+###### What are crypto faucets?
 
 Crypto faucets are sites or apps that dispense bitcoin or other altcoins for free. Now, before you get too excited, you won't be able to make a living out of this. But, it is a good way to earn some extra cash on the side. It is also a good way to learn about cryptocurrencies as an emerging technology and how they work without investing a cent.
 
 Below is a list I have compiled of the faucet sites I use and have paid out. I'll keep the list updated and add to it or remove sites that stop paying out. 
 
+<br>
+
 <p align="center">
   <a href="https://cointiply.com/r/Zn3J"><b>Cointiply</b></a>
 </p>
+
+<br> 
 
 Bitcoin faucet with multiple ways to earn, including; 
 - Free spins every hour 
