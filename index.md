@@ -32,13 +32,13 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 
 <br>
 
-[CoinPot](https://coinpot.co/) is a microwallet that serves as a hub for 7 faucets and 5 different cryptocurrencies. What's great about CoinPot is you can exchange all the different coins you claim to your preferred coin. This is all done instantly and feeless. Withdrawals are free here as well. Below are the 7 sites that connect and pay instantly to CoinPot:
+[CoinPot](https://coinpot.co/) is a microwallet that serves as a hub for 7 faucets and 5 different cryptocurrencies. What's great about CoinPot is you can exchange all the different coins you claim to your preferred coin. This is all done instantly and feeless. Withdrawals are free here as well. Below are the 7 sites that connect and pays out instantly to CoinPot:
 
 <br>
 
 <a href="http://bonusbitcoin.co/?ref=295473545322" target="_blank"><img src="https://i.imgur.com/rkI4Ihe.png"></a>
 
-Register with your [CoinPot](https://coinpot.co/) email on [Bonus Bitcoin](http://bonusbitcoin.co/?ref=295473545322) and you can start claiming every 15 minutes. Claims seem to be lottery based and you can claim up to 5000 satoshi, but I never had much luck with that. 
+Register with your [CoinPot](https://coinpot.co/) email on [Bonus Bitcoin](http://bonusbitcoin.co/?ref=295473545322) and you can start claiming every 15 minutes. Claims seem to be lottery based and you can claim up to 5,000 satoshi, but I never had much luck with that. 
 
 **Protip**: Under the claim button is a setting that allows you to "Always receive the average claim amount". Check that if you are not having any luck with the lottery.
 
@@ -50,11 +50,38 @@ Sign on to [Bit Fun](http://bitfun.co/?ref=28F49B146CA9) with your [CoinPot](htt
 
 <br> 
 
-<a href="http://moonbit.co.in/?ref=51648e491297"><img src="https://i.imgur.com/SPH6HYH.png"></a>
+<a href="http://moonbit.co.in/?ref=51648e491297" target="_blank"><img src="https://i.imgur.com/SPH6HYH.png"></a>
 
 Sign in to [Moon Bitcoin](http://moonbit.co.in/?ref=51648e491297) with your [CoinPot](https://coinpot.co/) email to start. The difference with CoinPot's Moon faucets from other faucets is that they allow you to claim as often or as a little as you want. Your claim amount gradually builds over time and you can increase your claims by 500% with the sites various bonuses.
 
 <br> 
+
+<a href="http://moondoge.co.in/?ref=ea8a23aea77f" target="_blank"><img src="https://i.imgur.com/aUk8exj.png"></a> 
+
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dogecoin](http://moondoge.co.in/?ref=ea8a23aea77f) is a DOGE faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+
+<br> 
+
+<a href="http://moonliteco.in/?ref=068833da775e" target="_blank"><img src="https://i.imgur.com/Bs8vfra.png"></a>
+
+<br> 
+
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Litecoin](http://moonliteco.in/?ref=068833da775e) is an LTC faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Can be converted to any crypto on CoinPot. Free withdrawals and can be converted to any crypto on CoinPot.
+
+
+<br> 
+
+<a href="http://moondash.co.in/?ref=DB099CCEFFBA" target="_blank"><img src="https://i.imgur.com/YIselpl.png"></a>
+
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dash](http://moondash.co.in/?ref=DB099CCEFFBA) is a DASH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+
+<br> 
+
+<a href="http://moonbitcoin.cash/?ref=328BDA9E90BF" target="_blank"><img src="https://i.imgur.com/KQKltWy.png"></a>
+
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Bitcoin Cash](http://moonbitcoin.cash/?ref=328BDA9E90BF) is a BCH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+
+<br>  
 
 <p align="center">
   <a href="https://freebitco.in/?r=13252621" target="_blank"><img src="https://i.imgur.com/Pjudjmm.png"></a>
