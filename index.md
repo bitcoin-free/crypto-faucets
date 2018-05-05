@@ -7,7 +7,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 <br>
 
 <p align="center">
-  <a href="https://cointiply.com/r/Zn3J"><img src="https://i.imgur.com/gDRGNvG.png"></a>
+  <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://i.imgur.com/gDRGNvG.png"></a>
 </p>
 
 <br> 
@@ -27,7 +27,37 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 <br> 
 
 <p align="center">
-  <a href="https://freebitco.in/?r=13252621"><img src="https://i.imgur.com/Pjudjmm.png"></a>
+  <a href="https://coinpot.co/" target="_blank"><img src="https://i.imgur.com/oqInFdi.png"></a>
+</p>
+
+<br>
+
+[CoinPot](https://coinpot.co/) is a microwallet that serves as a hub for 7 faucets and 5 different cryptocurrencies. What's great about CoinPot is you can exchange all the different coins you claim to your preferred coin. This is all done instantly and feeless. Withdrawals are free here as well. Below are the 7 sites that connect and pay instantly to CoinPot:
+
+<br>
+
+<a href="http://bonusbitcoin.co/?ref=295473545322" target="_blank"><img src="https://i.imgur.com/rkI4Ihe.png"></a>
+
+Register with your [CoinPot](https://coinpot.co/) email on [Bonus Bitcoin](http://bonusbitcoin.co/?ref=295473545322) and you can start claiming every 15 minutes. Claims seem to be lottery based and you can claim up to 5000 satoshi, but I never had much luck with that. 
+
+**Protip**: Under the claim button is a setting that allows you to "Always receive the average claim amount". Check that if you are not having any luck with the lottery.
+
+<br>
+
+<a href="http://bitfun.co/?ref=28F49B146CA9" target="_blank"><img src="https://i.imgur.com/g55KMyI.png"></a>
+
+Sign on to [Bit Fun](http://bitfun.co/?ref=28F49B146CA9) with your [CoinPot](https://coinpot.co/) account. Claim every 3 minutes but if you don't, your claim amount will continue to increase. It slows down over time though so don't leave it for too long. 
+
+<br> 
+
+<a href="http://moonbit.co.in/?ref=51648e491297"><img src="https://i.imgur.com/SPH6HYH.png"></a>
+
+Sign in to [Moon Bitcoin](http://moonbit.co.in/?ref=51648e491297) with your [CoinPot](https://coinpot.co/) email to start. The difference with CoinPot's Moon faucets from other faucets is that they allow you to claim as often or as a little as you want. Your claim amount gradually builds over time and you can increase your claims by 500% with the sites various bonuses.
+
+<br> 
+
+<p align="center">
+  <a href="https://freebitco.in/?r=13252621" target="_blank"><img src="https://i.imgur.com/Pjudjmm.png"></a>
 </p>
 
 <br>
@@ -50,14 +80,14 @@ A provablty fair Hi-Lo game in which you can multiply your earnings. I would rec
 
 For every Free BTC roll you make you receive 2 lottery tickets and 2 reward points. The tickets enters you into a lottery draw where up to 10 people win each week. 
 
-The rewards points can be redeemed for prizes ranging from mobile phones to hardware wallets and gift cards. The reward points can also be used to boost your free BTC rolls up to 1000%.
+The rewards points can be redeemed for prizes ranging from mobile phones to hardware wallets and gift cards. The reward points can also be used to boost your free BTC rolls up to 1000%. 
 
 <br> 
 
 <p align="center">
-  <a href="http://freedoge.co.in/?r=2384925"><img src="https://i.imgur.com/3yD4Ppw.png"></a>
+  <a href="http://freedoge.co.in/?r=2384925" target="_blank"><img src="https://i.imgur.com/3yD4Ppw.png"></a>
 </p>
 
 <br>
 
-[Freedoge.co.in](http://freedoge.co.in/?r=2384925) is a sister site of [FreeBitco.in](https://freebitco.in/?r=13252621). Like [FreeBitco.in](https://freebitco.in/?r=13252621), it has a Free Doge roll every hour and the multiply game, but doesn't have the lottery or compounded interest features. That said, the withdrawal threshold is much lower here which allows for more frequent withdrawals.
+[FreeDoge.co.in](http://freedoge.co.in/?r=2384925) is a sister site of [FreeBitco.in](https://freebitco.in/?r=13252621). Like [FreeBitco.in](https://freebitco.in/?r=13252621), it has a Free Doge roll every hour and the multiply game, but doesn't have the lottery or compounded interest features. That said, the withdrawal threshold is much lower here which allows for more frequent withdrawals.
