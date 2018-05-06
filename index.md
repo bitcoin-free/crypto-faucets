@@ -25,6 +25,7 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 [FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771).
 
 <br> 
+<br>
 
 <p align="center">
   <a href="https://coinpot.co/" target="_blank"><img src="https://i.imgur.com/oqInFdi.png"></a>
@@ -74,10 +75,7 @@ Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dogecoin](http://mo
 <a href="http://moonliteco.in/?ref=068833da775e" target="_blank"><img src="https://i.imgur.com/Bs8vfra.png"></a>
 </p>
 
-<br> 
-
 Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Litecoin](http://moonliteco.in/?ref=068833da775e) is an LTC faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Can be converted to any crypto on CoinPot. Free withdrawals and can be converted to any crypto on CoinPot.
-
 
 <br> 
 
@@ -132,3 +130,14 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 <br>
 
 [FreeDoge.co.in](http://freedoge.co.in/?r=2384925) is a sister site of [FreeBitco.in](https://freebitco.in/?r=13252621). Like [FreeBitco.in](https://freebitco.in/?r=13252621), it has a Free Doge roll every hour and the multiply game, but doesn't have the lottery or compounded interest features. That said, the withdrawal threshold is much lower here which allows for more frequent withdrawals.
+
+<br>
+
+<p align="center">
+  <a href="http://mellowads.com/?ref=C410FC60417D" target="_blank"><img src="https://mellowads.com/img/banners/180x150.gif"></a>
+</p>
+
+<br>
+
+[MellowAds](http://mellowads.com/?ref=C410FC60417D) is a faucet where you can claim 500, 1,000 or 3,000 satoshi once a day. Your free claims can then be used to pay for advertising on the [MellowAds](http://mellowads.com/?ref=C410FC60417D) network. 
+
