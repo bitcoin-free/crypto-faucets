@@ -134,7 +134,7 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 <br>
 
 <p align="center">
-  <a href="http://mellowads.com/?ref=C410FC60417D" target="_blank"><img src="https://mellowads.com/img/banners/180x150.gif"></a>
+  <a href="http://mellowads.com/?ref=C410FC60417D" target="_blank"><img src="https://i.imgur.com/RMk9z78.png"></a>
 </p>
 
 <br>
