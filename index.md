@@ -4,6 +4,7 @@ Crypto faucets are sites or apps that dispense bitcoin or other altcoins for fre
 
 Below is a list I have compiled of the faucet sites I use and have paid out. I'll keep the list updated and add to it or remove sites that stop paying out. 
 
+<hr>
 <br>
 
 <p align="center">
@@ -24,7 +25,7 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 
 [FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771).
 
-<br> 
+<hr>
 <br>
 
 <p align="center">
@@ -92,8 +93,9 @@ Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dash](http://moonda
 </p>
 
 Last of the [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Bitcoin Cash](http://moonbitcoin.cash/?ref=328BDA9E90BF) is a BCH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
-
-<br>  
+  
+<hr>
+<br>
 
 <p align="center">
   <a href="https://freebitco.in/?r=13252621" target="_blank"><img src="https://i.imgur.com/Pjudjmm.png"></a>
@@ -131,6 +133,7 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 
 [FreeDoge.co.in](http://freedoge.co.in/?r=2384925) is a sister site of [FreeBitco.in](https://freebitco.in/?r=13252621). Like [FreeBitco.in](https://freebitco.in/?r=13252621), it has a Free Doge roll every hour and the multiply game, but doesn't have the lottery or compounded interest features. That said, the withdrawal threshold is much lower here which allows for more frequent withdrawals.
 
+<hr>
 <br>
 
 <p align="center">
