@@ -23,7 +23,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 
 Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals made can be sent to your personal bitcoin/dogecoin address or your [FaucetHub](http://faucethub.io/r/42665771) account. 
 
-[FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771).
+[FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771). Highest paying site for me so far.
 
 <hr>
 <br>
