@@ -161,17 +161,19 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
   <tr>
     <td>Bitcoin (BTC)</td>
     <td>Ethereum (ETH)</td>
-    <td>Dogecoin (DOGE)</td> 
-    <td>Litecoin (LTC)</td>    
+    <td>Dogecoin (DOGE)</td>       
   </tr>
   <tr>
+    <td>Litecoin (LTC)</td> 
     <td>Primecoin (XPM)</td>    
-    <td>Potcoin (POT)</td> 
+    <td>Potcoin (POT)</td>     
+  </tr>
+  <tr>
     <td>Dash (DASH)</td>
     <td>Monero (XMR)</td>
+    <td>Peercoin (PPC)</td>
   </tr>
   <tr>
-    <td>Peercoin (PPC)</td>
     <td>Bitcoin Cash (BCH)</td>
     <td>Zcash (ZEC)</td>
     <td>Ethereum Classic (ETC)</td>
@@ -180,12 +182,15 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
     <td>Groestlcoin (GRS)</td>
     <td>Verge (XVG)</td>
     <td>Ubiq (UBQ)</td>
-    <td>PIVX (PIVX)</td>
   </tr>
     <tr>
     <td>Stratis (STRAT)</td>
-	<td>Blackcoin (BLK)</td>
+    <td>Blackcoin (BLK)</td>
     <td>BitCore (BTX)</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>PIVX (PIVX)</td>
   </tr>
 </table>
 
