@@ -25,7 +25,7 @@ Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals
 
 [FaucetHub](http://faucethub.io/r/42665771) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as thresholds for withdrawal are much lower with [FaucetHub](http://faucethub.io/r/42665771). 
 
-There are 16 offerwalls giving it plenty of earning potential. But the best way to earn by far is the Mining game, where you can invest your earnings and receive coins every hour. Total passive income. Highly recommended, top paying site for me so far.
+There are 16 offerwalls giving it plenty of earning potential. But the best way to earn by far is the Mining game, where you can invest your earnings and receive coins every hour. Total passive income. Just read the instructions on the mining game page to get started. The chat section in there is very helpful too. Highly recommended, top paying site for me so far.
 
 <hr>
 <br>
@@ -146,3 +146,47 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 
 [MellowAds](http://mellowads.com/?ref=C410FC60417D) is a faucet where you can claim 500, 1,000 or 3,000 satoshi once a day. Your free claims can then be used to pay for advertising on the [MellowAds](http://mellowads.com/?ref=C410FC60417D) network. 
 
+<hr>
+<br>
+
+<p align="center">
+  <a href="https://allcoins.pw/?ref=15312" target="_blank"><img src="https://i.imgur.com/m9pBetV.png"></a>
+</p>
+
+<br>
+
+[Allcoins](https://allcoins.pw/?ref=15312) really lives up to its name, as it is a faucet that lists 19 different cryptocurrencies. Currently you can claim the following crypto:
+
+<table align="center">
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>Ethereum (ETH)</td>
+    <td>Dogecoin (DOGE)</td> 
+    <td>Litecoin (LTC)</td>    
+  </tr>
+  <tr>
+    <td>Primecoin (XPM)</td>    
+    <td>Potcoin (POT)</td> 
+    <td>Dash (DASH)</td>
+    <td>Monero (XMR)</td>
+  </tr>
+  <tr>
+    <td>Peercoin (PPC)</td>
+    <td>Bitcoin Cash (BCH)</td>
+    <td>Zcash (ZEC)</td>
+    <td>Ethereum Classic (ETC)</td>
+  </tr>
+  <tr>
+    <td>Groestlcoin (GRS)</td>
+    <td>Verge (XVG)</td>
+    <td>Ubiq (UBQ)</td>
+    <td>PIVX (PIVX)</td>
+  </tr>
+    <tr>
+    <td>Stratis (STRAT)</td>
+	<td>Blackcoin (BLK)</td>
+    <td>BitCore (BTX)</td>
+  </tr>
+</table>
+
+Just choose your favorite coin and you can start claiming every 4 minutes. All of them can be withdrawn to your personal wallet and some can be withdrawn to [FaucetHub](http://faucethub.io/r/42665771).
