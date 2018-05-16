@@ -157,7 +157,7 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 
 [Allcoins](https://allcoins.pw/?ref=15312) really lives up to its name, as it is a faucet that lists 19 different cryptocurrencies. Currently you can claim the following crypto:
 
-<table align="center">
+<table style="width:100%">
   <tr>
     <td>Bitcoin (BTC)</td>
     <td>Ethereum (ETH)</td>
