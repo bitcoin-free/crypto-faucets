@@ -1,6 +1,1 @@
-theme: jekyll-theme-merlot
-
- analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-119545994-1"
+theme: jekyll-theme-merlo
