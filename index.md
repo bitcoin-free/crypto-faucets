@@ -42,60 +42,60 @@ Highly recommended, top paying site for me so far.
 <br>
 
 <p align="center">
-<a href="http://bonusbitcoin.co/?ref=295473545322" target="_blank"><img src="https://i.imgur.com/rkI4Ihe.png"></a>
+<a href="http://bonusbitcoin.co/?ref=788FBE0E3F22" target="_blank"><img src="https://i.imgur.com/rkI4Ihe.png"></a>
 </p>
 
-Register with your [CoinPot](https://coinpot.co/) email on [Bonus Bitcoin](http://bonusbitcoin.co/?ref=295473545322) and you can start claiming every 15 minutes. Claims seem to be lottery based and you can claim up to 5,000 satoshi, but I never had much luck with that. 
+Register with your [CoinPot](https://coinpot.co/) email on [Bonus Bitcoin](http://bonusbitcoin.co/?ref=788FBE0E3F22) and you can start claiming every 15 minutes. Claims seem to be lottery based and you can claim up to 5,000 satoshi, but I never had much luck with that. 
 
 **Protip**: Under the claim button is a setting that allows you to "Always receive the average claim amount". Check that if you are not having any luck with the lottery.
 
 <br>
 
 <p align="center">
-<a href="http://bitfun.co/?ref=28F49B146CA9" target="_blank"><img src="https://i.imgur.com/g55KMyI.png"></a>
+<a href="http://bitfun.co/?ref=9D398DABBDD9" target="_blank"><img src="https://i.imgur.com/g55KMyI.png"></a>
 </p>
 
-Sign on to [Bit Fun](http://bitfun.co/?ref=28F49B146CA9) with your [CoinPot](https://coinpot.co/) account. Claim every 3 minutes but if you don't, your claim amount will continue to increase. It slows down over time though so don't leave it for too long. 
+Sign on to [Bit Fun](http://bitfun.co/?ref=9D398DABBDD9) with your [CoinPot](https://coinpot.co/) account. Claim every 3 minutes but if you don't, your claim amount will continue to increase. It slows down over time though so don't leave it for too long. 
 
 <br> 
 
 <p align="center">
-<a href="http://moonbit.co.in/?ref=51648e491297" target="_blank"><img src="https://i.imgur.com/SPH6HYH.png"></a>
+<a href="http://moonbit.co.in/?ref=7c28c81afce2" target="_blank"><img src="https://i.imgur.com/SPH6HYH.png"></a>
 </p>
 
-Sign in to [Moon Bitcoin](http://moonbit.co.in/?ref=51648e491297) with your [CoinPot](https://coinpot.co/) email to start. The difference with CoinPot's Moon faucets from other faucets is that they allow you to claim as often or as a little as you want. Your claim amount gradually builds over time and you can increase your claims by 500% with the sites various bonuses.
+Sign in to [Moon Bitcoin](http://moonbit.co.in/?ref=7c28c81afce2) with your [CoinPot](https://coinpot.co/) email to start. The difference with CoinPot's Moon faucets from other faucets is that they allow you to claim as often or as a little as you want. Your claim amount gradually builds over time and you can increase your claims by 500% with the sites various bonuses.
 
 <br> 
 
 <p align="center">
-<a href="http://moondoge.co.in/?ref=ea8a23aea77f" target="_blank"><img src="https://i.imgur.com/aUk8exj.png"></a> 
+<a href="http://moondoge.co.in/?ref=eeb83ccbf473" target="_blank"><img src="https://i.imgur.com/aUk8exj.png"></a> 
 </p>
 
-Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dogecoin](http://moondoge.co.in/?ref=ea8a23aea77f) is a DOGE faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dogecoin](http://moondoge.co.in/?ref=eeb83ccbf473) is a DOGE faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
 
 <br> 
 
 <p align="center">
-<a href="http://moonliteco.in/?ref=068833da775e" target="_blank"><img src="https://i.imgur.com/Bs8vfra.png"></a>
+<a href="http://moonliteco.in/?ref=bc544caf8054" target="_blank"><img src="https://i.imgur.com/Bs8vfra.png"></a>
 </p>
 
-Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Litecoin](http://moonliteco.in/?ref=068833da775e) is an LTC faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Can be converted to any crypto on CoinPot. Free withdrawals and can be converted to any crypto on CoinPot.
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Litecoin](http://moonliteco.in/?ref=bc544caf8054) is an LTC faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Can be converted to any crypto on CoinPot. Free withdrawals and can be converted to any crypto on CoinPot.
 
 <br> 
 
 <p align="center">
-<a href="http://moondash.co.in/?ref=DB099CCEFFBA" target="_blank"><img src="https://i.imgur.com/YIselpl.png"></a>
+<a href="http://moondash.co.in/?ref=7FEA798C52E6" target="_blank"><img src="https://i.imgur.com/YIselpl.png"></a>
 </p>
 
-Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dash](http://moondash.co.in/?ref=DB099CCEFFBA) is a DASH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+Part of [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Dash](http://moondash.co.in/?ref=7FEA798C52E6) is a DASH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
 
 <br> 
 
 <p align="center">
-<a href="http://moonbitcoin.cash/?ref=328BDA9E90BF" target="_blank"><img src="https://i.imgur.com/KQKltWy.png"></a>
+<a href="http://moonbitcoin.cash/?ref=BF4605E1651A" target="_blank"><img src="https://i.imgur.com/KQKltWy.png"></a>
 </p>
 
-Last of the [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Bitcoin Cash](http://moonbitcoin.cash/?ref=328BDA9E90BF) is a BCH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
+Last of the [CoinPot's](https://coinpot.co/) Moon faucets, [Moon Bitcoin Cash](http://moonbitcoin.cash/?ref=BF4605E1651A) is a BCH faucet. Claim every 5 minutes or let it build up. Payouts instantly to [CoinPot's](https://coinpot.co/). Free withdrawals and can be converted to any crypto on CoinPot.
   
 <hr>
 <br>
