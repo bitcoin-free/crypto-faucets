@@ -13,7 +13,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 
 <br> 
 
-[Cointiply](https://cointiply.com/r/Zn3J) is a bitcoin faucet with multiple ways to earn, including; 
+[Cointiply](https://cointiply.com/r/Zn3J) is a Bitcoin and Dogecoin faucet with multiple ways to earn, including; 
 - Free bitcoin claims every hour 
 - Playing games
 - Watching videos
