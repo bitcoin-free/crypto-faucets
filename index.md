@@ -21,7 +21,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 - Browser mining
 - Mining game for passive income
 
-There are 16 offerwalls giving it plenty of earning potential. But the best way to earn by far is the Mining game, where you can invest your earnings and receive coins every hour. Total passive income, you just need to make sure you check-in to keep your effeciency up. Just read the instructions on the mining game page to get started. The chat section in there is very helpful too.
+There are 16 offerwalls giving it plenty of earning potential. You can leave 4 windows of videos playing overnight to earn coins while you sleep. But the best way to earn by far is the Mining game, where you can invest your earnings and receive coins every hour. Total passive income, you just need to make sure you check-in to keep your effeciency up. Just read the instructions on the mining game page to get started. The chat section in there is very helpful too.
 
 Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals made can be sent to your personal bitcoin/dogecoin address or your [FaucetHub](http://faucethub.io/r/42665771) account. 
 
