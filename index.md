@@ -2,7 +2,13 @@
 
 Crypto faucets are sites or apps that dispense bitcoin or other altcoins for free. Now, before you get too excited, you won't be able to make a living out of this. But, it is a good way to earn some extra cash on the side. It is also a good way to learn about cryptocurrencies as an emerging technology and how they work without investing a cent.
 
-Below is a list I have compiled of the faucet sites I use and have paid out. I'll keep the list updated and add to it or remove sites that stop paying out. 
+Below I have compiled a list of the faucet sites I use that have paid out. I'll keep the list updated to add to it or remove sites that stop paying out. 
+
+<hr>
+<br>
+
+### Direct-to-wallet Faucets
+Faucets that send your earnings directly to your crypto wallet.
 
 <hr>
 <br>
@@ -68,6 +74,14 @@ For every Free BTC roll you make you receive 2 lottery tickets and 2 reward poin
 The rewards points can be redeemed for prizes ranging from mobile phones to hardware wallets and gift cards. The reward points can also be used to boost your free BTC rolls up to 1000%. 
 
 <br>
+<hr>
+<br>
+
+
+
+<br>
+<hr>
+<br>
 
 <p align="center">
   <a href="https://allcoins.pw/?ref=15312" target="_blank"><img src="https://i.imgur.com/m9pBetV.png"></a>
@@ -104,3 +118,9 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 </table>
 
 Just choose your favorite coin and you can start claiming every 5 minutes. All of them can be withdrawn to your personal wallet.
+
+<br>
+<hr>
+<br>
+
+
