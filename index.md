@@ -8,7 +8,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 <br>
 
 <p align="center">
-  <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://i.imgur.com/KgKQynQ.png"></a>
+  <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://i.imgur.com/KgKQynQ.png" height=”84px" width=”336px"></a>
 </p>
 
 <br> 
@@ -103,4 +103,4 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
     </tr>
 </table>
 
-Just choose your favorite coin and you can start claiming every 4 minutes. All of them can be withdrawn to your personal wallet.
+Just choose your favorite coin and you can start claiming every 5 minutes. All of them can be withdrawn to your personal wallet.
