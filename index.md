@@ -8,7 +8,7 @@ Below is a list I have compiled of the faucet sites I use and have paid out. I'l
 <br>
 
 <p align="center">
-  <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://i.imgur.com/KgKQynQ.png" height=”84px" width=”336px"></a>
+  <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://cointiply.com/img/promo/banners/1_728x90.jpg"></a>
 </p>
 
 <br> 
