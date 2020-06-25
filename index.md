@@ -79,7 +79,9 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 
 <br>
 
-[Yannik.biz](http://yannik.biz/?ref=59594) is a crypto faucet that has been running since 2015. You can currently claim Bitcoin and IOTA from the site. IOTA can only be claimed every hour, while Bitcoin can be claimed as often as you like starting from 10 minutes. The site also has a loyalty system where for every consecutive day you make a claim, your bonus will go up by 1% up to 100%. This means you will be able to double the amount BTC you earn in one claim.
+[Yannik.biz](http://yannik.biz/?ref=59594) is a crypto faucet that has been running since 2015. You can currently claim Bitcoin and IOTA from the site. IOTA can only be claimed every hour, while Bitcoin can be claimed as often as you like starting from 10 minutes. 
+
+The site also has a loyalty system where for every consecutive day you make a claim, your bonus will go up by 1% up to 100%. This means you will be able to double the amount BTC you earn in one claim.
 
 Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you earn through its offerwalls, games and bounty programs.
 
