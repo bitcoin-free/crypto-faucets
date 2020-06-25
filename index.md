@@ -10,7 +10,6 @@ Below I have compiled a list of the faucet sites I use that have paid out. I'll 
 ### Direct-to-wallet Faucets
 Faucets that send your earnings directly to your crypto wallet.
 
-<hr>
 <br>
 
 <p align="center">
@@ -32,9 +31,6 @@ There are 17 offerwalls in total, giving Cointiply plenty of earning potential. 
 Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals made are sent to your personal Bitcoin/Dogecoin wallet. 
 
 Highly recommended, top paying site for me so far. I've withdrawn around US$500 so far without any problems.
-
-[FaucetPay](https://faucetpay.io/?r=312183) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as withdrawal fees are very reasonable on the site. 
-
 
 <br>
 
@@ -77,7 +73,21 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 <hr>
 <br>
 
+<p align="center">
+  <a href="http://yannik.biz/?ref=59594" target="_blank"><img src="https://i.imgur.com/a1mmhxB.png"></a>
+</p>
 
+<br>
+
+[Yannik.biz](http://yannik.biz/?ref=59594) is a crypto faucet that has been running since 2015. You can currently claim Bitcoin and IOTA from the site. IOTA can only be claimed every hour, while Bitcoin can be claimed as often as you like starting from 10 minutes. The site also has a loyalty system where for every consecutive day you make a claim, your bonus will go up by 1% up to 100%. This means you will be able to double the amount BTC you earn in one claim.
+
+Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you earn through its offerwalls, games and bounty programs.
+
+<br>
+
+<p align="center">
+  <a href="http://yannik.biz/?ref=59594" target="_blank"><img src="https://i.imgur.com/nXbi7Hd.png"></a>
+</p>
 
 <br>
 <hr>
@@ -123,4 +133,4 @@ Just choose your favorite coin and you can start claiming every 5 minutes. All o
 <hr>
 <br>
 
-
+[FaucetPay](https://faucetpay.io/?r=312183) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as withdrawal fees are very reasonable on the site. 
