@@ -129,6 +129,12 @@ Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you ear
 Just choose your favorite coin and you can start claiming every 5 minutes. All of them can be withdrawn to your personal wallet.
 
 <br>
+
+<p align="center">
+  <a href="https://allcoins.pw/?ref=15312" target="_blank"><img src="https://i.imgur.com/pkAFv2A.png"></a>
+</p>
+
+<br>
 <hr>
 <br>
 
