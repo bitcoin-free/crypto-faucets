@@ -27,7 +27,7 @@ Faucets that send your earnings directly to your crypto wallet.
 - PTC
 - Completing special offers
 
-There are 17 offerwalls in total, giving Cointiply plenty of earning potential. The chat section in there is very helpful if you have any questions. The chat also includes a rain function where you'll be rewarded with coins for your participation.
+There are 17 offerwalls in total, giving Cointiply plenty of earning potential. The chat section in there is very helpful if you have any questions. The chat also includes a rain function where you'll be rewarded with coins for your participation. Cointiply also has a mobile app that you can use to claim when you're out.
 
 Coins you earn can be withdrawn as Bitcoin (BTC) or Dogecoin (DOGE). Withdrawals made are sent to your personal Bitcoin/Dogecoin wallet. 
 
