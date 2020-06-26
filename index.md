@@ -45,36 +45,6 @@ Highly recommended, top paying site for me so far. I've withdrawn around US$500 
 <br>
 
 <p align="center">
-  <a href="https://freebitco.in/?r=13252621" target="_blank"><img src="https://i.imgur.com/Pjudjmm.png"></a>
-</p>
-
-<br>
-
-Operating since 2014, <b>[FreeBitco.in](https://freebitco.in/?r=13252621)</b> has proven itself to be very reliable and on time with their payments. Withdrawals are set to 30,000 satoshi (0.003 BTC) and are sent to your personal bitcoin address. There are 4 ways in which you can earn bitcoin here.
-
-### Free BTC Rolls
-
-Every hour you get a free roll for a chance to win up to US$200 (BTC amount will vary depending on its market price). 
-
-### Multiply Bitcoin
-
-A provablty fair Hi-Lo game in which you can multiply your earnings. I would recommend playing this just for fun as it is quite risky. Just know when to quit and don't wager too much.
-
-### Interest
-
-[FreeBitco.in](https://freebitco.in/?r=13252621) is unique in that it also acts as a Bitcoin Bank where you receive compounding *daily* interest by just leaving your coins in your account. Minimum amount of bitcoin needed to start accruing is 30,000 satoshi (0.0003 BTC). Annual interest rate is around 4%.
-
-### Lottery and Reward Points
-
-For every Free BTC roll you make you receive 2 lottery tickets and 2 reward points. The tickets enters you into a lottery draw where up to 10 people win each week. 
-
-The rewards points can be redeemed for prizes ranging from mobile phones to hardware wallets and gift cards. The reward points can also be used to boost your free BTC rolls up to 1000%. 
-
-<br>
-<hr>
-<br>
-
-<p align="center">
   <a href="http://yannik.biz/?ref=59594" target="_blank"><img src="https://i.imgur.com/a1mmhxB.png"></a>
 </p>
 
@@ -137,9 +107,10 @@ Just choose your favorite coin and you can start claiming every 5 minutes. All o
 
 <br>
 <hr>
-<br>
 
 ### FaucetPay Faucets
+
+<br>
 
 <p align="center">
   <a href="https://faucetpay.io/?r=312183" target="_blank"><img src="https://i.imgur.com/qkYIujU.png"></a>
@@ -147,7 +118,9 @@ Just choose your favorite coin and you can start claiming every 5 minutes. All o
 
 <br>
 
-<b>[FaucetPay](https://faucetpay.io/?r=312183)</b> is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as the withdrawal thresholds are low and the withdrawal fees are very reasonable. Most of the sites listed below will be able to send your earnings <b>directly to your crypto wallet</b> as well as to FaucetPay. 
+<b>[FaucetPay](https://faucetpay.io/?r=312183)</b> is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as the withdrawal thresholds are low and the withdrawal fees are very reasonable. 
+
+Most of the sites listed below will be able to send your earnings <b>directly to your crypto wallet</b> as well as to FaucetPay. 
 
 <br>
 <hr>
@@ -161,22 +134,111 @@ Just choose your favorite coin and you can start claiming every 5 minutes. All o
 
 <br>
 
-<b>[ES-Faucets](https://es.btcnewz.com/auth/register?ref=c5d8861315d5c1b59b57)</b> is a multicrypto faucet with plenty of earning opportunities. Unlike [Allcoins](https://allcoins.pw/?ref=15312) where you can claim one cryptocurrency every 5 minutes, ES-Faucets
+<b>[ES-Faucets](https://es.btcnewz.com/auth/register?ref=c5d8861315d5c1b59b57)</b> is a multicrypto faucet with plenty of earning opportunities. Unlike [Allcoins](https://allcoins.pw/?ref=15312) where you can claim one cryptocurrency every 5 minutes, ES-Faucets allows you to claim 13+ cryptocurrencies at the same time! 
 
+You can claim from each of the 12+ faucets every 30 minutes. The amount you can claim increases as time goes on, but the rate it increases will slow down as well. The site also has its own ES-Coin that can be exchanged for any cryptocurrency on the site. Holding ES-Coin can also boost your faucet claims up to 150%. 
 
+Besides holding ES-Coin, other bonuses such as daily loyalty and XP levels can boost all your claims up over 500%! When you first start out on the faucet, my advice would be to convert your crypto to ES-Coin to get the bonus percentage in your claims. From there, you'll be able to get higher amounts at the faucets.
 
+Use the code below when you register to get a bonus 2500 ES-Coins into your account.
 
+### c5d8861315d5c1b59b57
 
+All of their faucets are also available on iOS and Android allowing you to claim easily on the mobile. You can withdraw your coins to [Coinbase](https://www.coinbase.com/), Direct-to-Wallet, or [FaucetPay](https://faucetpay.io/?r=312183)
 
+Here's a list of coins you can claim at ES-Faucets
 
+<table align="center">
+  <tr>
+    <td>ES-Coin</td>
+    <td>Bitcoin (BTC)</td>
+    <td>Ethereum (ETH)</td>    
+  </tr>
+  <tr>
+    <td>Dogecoin (DOGE)</td> 
+    <td>Litecoin (LTC)</td>     
+    <td>XRP (XRP)</td>
+  </tr>
+  <tr>
+    <td>Bitcoin Cash (BCH)</td>
+    <td>Digibyte (DGB)</td>
+    <td>Basic Attention Token (BAT)</td>
+  </tr>
+  <tr>
+    <td>Stellar Lumens (XLM)</td>
+    <td>Tron (TRX)</td>
+    <td>Ethereum Classic (ETC)</td>
+  </tr>
+  <tr>
+    <td>Dash (DASH)</td>
+    <td>0x (ZRX)</td>
+  </tr>
+</table>
 
+<br>
+<hr>
+<br>
 
+<p align="center">
+  <a href="https://www.faucetcrypto.com/ref/286789" target="_blank"><img src="https://i.imgur.com/glMO1zO.png"></a>
+</p>
 
+<br>
 
+[Faucet Crypto](https://www.faucetcrypto.com/ref/286789) is a faucet where you can claim coins every hour or so. Coins can be earned through the offerwalls, viewing PTC ads and shortlinks. You earn more bonuses to your claims the higher level you are. 
 
+The coins you earn can then be used to withdraw 17 different cryptocurrencies to either [FaucetPay](https://faucetpay.io/?r=312183) or directly to your wallet. Payments to your [FaucetPay](https://faucetpay.io/?r=312183) wallet are instant.
 
+<br>
 
+<p align="center">
+  <a href="https://www.faucetcrypto.com/ref/286789" target="_blank"><img src="https://i.imgur.com/WQHdb0E.png"></a>
+</p>
 
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <a href="https://r.adbtc.top/1725349" target="_blank"><img src="https://i.imgur.com/fmRi42o.png"></a>
+</p>
+
+<br>
+
+[Adbtc](https://r.adbtc.top/1725349) has a faucet function, but its main appeal is how they pay you Bitcoin to view other websites. The more active you are the more sites you can view. Casual but high earning. I mainly use this site while I watch TV.
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <a href="https://firefaucet.win/ref/324415" target="_blank"><img src="https://i.imgur.com/49i7cZp.png"></a>
+</p>
+
+[Fire Faucet](https://firefaucet.win/ref/324415) is a faucet that allows you to claim automatically. To do so, you first need to accumulate Auto Claim Points (ACP). The more ACP you have, the longer you can keep the autoclaim running.
+
+ACP can be earned through the faucet, daily tasks, PTC, completing offers, shortlinks and more. You can choose from 8 different cryptos (listed below) to auto claim, or you can even claim them all at once.
+
+<table align="center">
+  <tr>
+    <td>Dash (DASH)</td>
+    <td>Bitcoin (BTC)</td>
+    <td>Ethereum (ETH)</td>    
+    <td>Digibyte (DGB)</td> 
+  </tr>
+  <tr>
+    <td>Dogecoin (DOGE)</td> 
+    <td>Litecoin (LTC)</td>     
+    <td>Tron (TRX)</td>
+    <td>ZCash (ZEC)</td> 
+  </tr>
+</table>
+
+Payments are made directly to your wallet or to [FaucetPay](https://faucetpay.io/?r=312183).
+
+<br>
+<hr>
+<br>
 
 
 
