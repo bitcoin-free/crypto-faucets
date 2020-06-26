@@ -162,16 +162,16 @@ Here's a list of coins you can claim at ES-Faucets
   <tr>
     <td>Bitcoin Cash (BCH)</td>
     <td>Digibyte (DGB)</td>
-    <td>Basic Attention Token (BAT)</td>
-  </tr>
-  <tr>
-    <td>Stellar Lumens (XLM)</td>
-    <td>Tron (TRX)</td>
-    <td>Ethereum Classic (ETC)</td>
-  </tr>
-  <tr>
-    <td>Dash (DASH)</td>
     <td>0x (ZRX)</td>
+  </tr>
+  <tr>
+    <td>Stellar (XLM)</td>
+    <td>Tron (TRX)</td>
+    <td>Dash (DASH)</td>
+  </tr>
+  <tr>
+    <td>Ethereum Classic (ETC)</td>
+    <td>Basic Attention Token (BAT)</td>
   </tr>
 </table>
 
