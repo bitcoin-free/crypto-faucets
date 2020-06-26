@@ -11,6 +11,7 @@ Below I have compiled a list of the faucet sites I use that have paid out. I'll 
 Faucets that send your earnings directly to your crypto wallet.
 
 <br>
+<hr>
 
 <p align="center">
   <a href="https://cointiply.com/r/Zn3J" target="_blank"><img src="https://i.imgur.com/yCy1WRt.jpg"></a>
@@ -18,7 +19,7 @@ Faucets that send your earnings directly to your crypto wallet.
 
 <br> 
 
-[Cointiply](https://cointiply.com/r/Zn3J) is a Bitcoin and Dogecoin faucet with multiple ways to earn, including; 
+<b>[Cointiply](https://cointiply.com/r/Zn3J)</b> is a Bitcoin and Dogecoin faucet with multiple ways to earn, including; 
 - Free bitcoin claims every hour 
 - Playing games
 - Watching videos
@@ -49,7 +50,7 @@ Highly recommended, top paying site for me so far. I've withdrawn around US$500 
 
 <br>
 
-Operating since 2014, [FreeBitco.in](https://freebitco.in/?r=13252621) has proven itself to be very reliable and on time with their payments. Withdrawals are set to 30,000 satoshi (0.003 BTC) and are sent to your personal bitcoin address. There are 4 ways in which you can earn bitcoin here.
+Operating since 2014, <b>[FreeBitco.in](https://freebitco.in/?r=13252621)</b> has proven itself to be very reliable and on time with their payments. Withdrawals are set to 30,000 satoshi (0.003 BTC) and are sent to your personal bitcoin address. There are 4 ways in which you can earn bitcoin here.
 
 ### Free BTC Rolls
 
@@ -79,7 +80,7 @@ The rewards points can be redeemed for prizes ranging from mobile phones to hard
 
 <br>
 
-[Yannik.biz](http://yannik.biz/?ref=59594) is a crypto faucet that has been running since 2015. You can currently claim Bitcoin and IOTA from the site. IOTA can only be claimed every hour, while Bitcoin can be claimed as often as you like starting from 10 minutes. 
+<b>[Yannik.biz](http://yannik.biz/?ref=59594)</b> is a crypto faucet that has been running since 2015. You can currently claim Bitcoin and IOTA from the site. IOTA can only be claimed every hour, while Bitcoin can be claimed as often as you like starting from 10 minutes. 
 
 The site also has a loyalty system where for every consecutive day you make a claim, your bonus will go up by 1% up to 100%. This means you will be able to double the amount BTC you earn in one claim.
 
@@ -101,7 +102,7 @@ Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you ear
 
 <br>
 
-[Allcoins](https://allcoins.pw/?ref=15312) really lives up to its name, as it is a faucet that lists 12 different cryptocurrencies. Currently you can claim the following crypto:
+<b>[Allcoins](https://allcoins.pw/?ref=15312)</b> really lives up to its name, as it is a faucet that lists 12 different cryptocurrencies. Currently you can claim the following crypto:
 
 <table align="center">
   <tr>
@@ -138,4 +139,45 @@ Just choose your favorite coin and you can start claiming every 5 minutes. All o
 <hr>
 <br>
 
-[FaucetPay](https://faucetpay.io/?r=312183) is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as withdrawal fees are very reasonable on the site. 
+### FaucetPay Faucets
+
+<p align="center">
+  <a href="https://faucetpay.io/?r=312183" target="_blank"><img src="https://i.imgur.com/qkYIujU.png"></a>
+</p>
+
+<br>
+
+<b>[FaucetPay](https://faucetpay.io/?r=312183)</b> is a microwallet for cryptocurrencies that allows you to instantly receive payments from hundreds of faucets. I recommend using it as the withdrawal thresholds are low and the withdrawal fees are very reasonable. Most of the sites listed below will be able to send your earnings <b>directly to your crypto wallet</b> as well as to FaucetPay. 
+
+<br>
+<hr>
+<br>
+
+<br>
+
+<p align="center">
+  <a href="https://es.btcnewz.com/auth/register?ref=c5d8861315d5c1b59b57" target="_blank"><img src="https://i.imgur.com/h2I7Ry3.png"></a>
+</p>
+
+<br>
+
+<b>[ES-Faucets](https://es.btcnewz.com/auth/register?ref=c5d8861315d5c1b59b57)</b> is a multicrypto faucet with plenty of earning opportunities. Unlike [Allcoins](https://allcoins.pw/?ref=15312) where you can claim one cryptocurrency every 5 minutes, ES-Faucets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
