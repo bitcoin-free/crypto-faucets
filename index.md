@@ -217,7 +217,7 @@ The coins you earn can then be used to withdraw 17 different cryptocurrencies to
 
 [Fire Faucet](https://firefaucet.win/ref/324415) is a faucet that allows you to claim automatically. To do so, you first need to accumulate Auto Claim Points (ACP). The more ACP you have, the longer you can keep the autoclaim running.
 
-ACP can be earned through the faucet, daily tasks, PTC, completing offers, shortlinks and more. You can choose from 8 different cryptos (listed below) to auto claim, or you can even claim them all at once.
+ACP can be earned through the faucet, daily tasks, PTC, completing offers, shortlinks, mining and more. You can choose from 8 different cryptos (listed below) to auto claim, or you can even claim them all at once.
 
 <table align="center">
   <tr>
@@ -240,6 +240,20 @@ Payments are made directly to your wallet or to [FaucetPay](https://faucetpay.io
 <hr>
 <br>
 
+<p align="center">
+  <a href="https://moremoney.io/?ref=278876" target="_blank"><img src="https://i.imgur.com/K9M0JAw.png"></a>
+</p>
 
+<br>
 
+[Moremoney](https://moremoney.io/?ref=278876) is a high-paying faucet with multiple ways to earn crypto. Its hourly faucet alone pays more than most that are out there right now. This is a Bitcoin only site and withdrawals are sent directly to wallet or to [FaucetPay](https://faucetpay.io/?r=312183).
 
+<br>
+
+<p align="center">
+  <a href="https://grab.tc/?ref=37967" target="_blank"><img src="https://i.imgur.com/Zl9aRup.png"></a>
+</p>
+
+[GraB.TC](https://grab.tc/?ref=37967) is very similar to [Moremoney](https://moremoney.io/?ref=278876). There are many ways to earn and they hold contests just as frequently. Payments are paid out fast and withdrawal thresholds to [FaucetPay](https://faucetpay.io/?r=312183) are low.
+
+<br>
