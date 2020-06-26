@@ -257,3 +257,28 @@ Payments are made directly to your wallet or to [FaucetPay](https://faucetpay.io
 [GraB.TC](https://grab.tc/?ref=37967) is very similar to [Moremoney](https://moremoney.io/?ref=278876). There are many ways to earn and they hold contests just as frequently. Payments are paid out fast and withdrawal thresholds to [FaucetPay](https://faucetpay.io/?r=312183) are low.
 
 <br>
+<hr>
+<br>
+
+<p align="center">
+  <a href="https://hitbits.io/r/kcfbpTt3Y" target="_blank"><img src="https://i.imgur.com/BheP8Pk.png"></a>
+</p>
+
+<br>
+
+[HitBits](https://hitbits.io/r/kcfbpTt3Y) is an RPG type of faucet where you participate in raids to earn Credits. These credits can then be withdrawn to your BTC wallet or DOGE wallet (SOON).
+
+You can spin the faucet every 15 minutes to get tokens which allow you to buy items for your character, hire mercenaries or just convert them into Credits. You can also earn more tokens by doing offers, shortlinks and PTCs. Starts off slowly but the earnings build up over time. Very fun game to play while also earning crypto at the same time.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
