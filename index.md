@@ -101,7 +101,7 @@ Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you ear
 
 <br>
 
-[Allcoins](https://allcoins.pw/?ref=15312) really lives up to its name, as it is a faucet that lists 13 different cryptocurrencies. Currently you can claim the following crypto:
+[Allcoins](https://allcoins.pw/?ref=15312) really lives up to its name, as it is a faucet that lists 12 different cryptocurrencies. Currently you can claim the following crypto:
 
 <table align="center">
   <tr>
@@ -117,16 +117,13 @@ Besides the faucet, [Yannik.biz](http://yannik.biz/?ref=59594) also lets you ear
   <tr>
     <td>Bitcoin Cash (BCH)</td>
     <td>IDA Token</td>
-    <td>Ethereum Classic (ETC)</td>
+    <td>Bittorrent Token (BTT)</td>
   </tr>
   <tr>
     <td>Stellar Lumens (XLM)</td>
     <td>XRP (XRP)</td>
     <td>Tron (TRX)</td>
   </tr>
-    <tr>
-    <td>Bittorrent Token (BTT)</td>
-    </tr>
 </table>
 
 Just choose your favorite coin and you can start claiming every 5 minutes. All of them can be withdrawn to your personal wallet.
